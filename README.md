@@ -29,3 +29,5 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Your-Username&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
+الشكل: ![Python](https://img.shields.io/badge Python-9D4EDD?style=for-the-badge&logo=python&logoColor=whit
+
